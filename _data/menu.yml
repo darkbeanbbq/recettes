@@ -1,0 +1,6 @@
+- name: recettes
+  link: /recettes.html
+- name: blog
+  link: /blog.html
+- name: à props
+  link: /apropos.html

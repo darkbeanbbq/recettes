@@ -1,0 +1,21 @@
+# collections
+collections_dir: _collections
+
+collections:
+  entrees:
+    output: true
+  plats:
+    output: true
+  desserts:
+    output: true
+  pates:
+    output: true
+  sauces:
+    output: true
+
+# mise en page par défaut par collection
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
