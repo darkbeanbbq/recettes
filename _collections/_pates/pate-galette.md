@@ -1,3 +1,3 @@
 ---
-titre: pâte à galette
+title: pâte à galette
 ---

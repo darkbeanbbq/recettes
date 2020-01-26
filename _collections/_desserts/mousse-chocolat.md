@@ -1,3 +1,3 @@
 ---
-titre: mousse au chocolat
+title: mousse au chocolat
 ---

@@ -1,3 +1,3 @@
 ---
-titre: purée de pomme de terre
+title: purée de pomme de terre
 ---

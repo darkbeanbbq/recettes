@@ -1,3 +1,3 @@
 ---
-titre: sauce gorgonzola
+title: sauce gorgonzola
 ---

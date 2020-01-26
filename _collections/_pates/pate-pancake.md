@@ -1,3 +1,3 @@
 ---
-titre: pâte à pancake
+title: pâte à pancake
 ---

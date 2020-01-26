@@ -1,3 +1,3 @@
 ---
-titre: potage aux légumes
+title: potage aux légumes
 ---

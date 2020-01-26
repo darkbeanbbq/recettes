@@ -1,3 +1,3 @@
 ---
-titre: pâte à gnocchis
+title: pâte à gnocchis
 ---

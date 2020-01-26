@@ -1,3 +1,3 @@
 ---
-titre: pâte à crêpe
+title: pâte à crêpe
 ---

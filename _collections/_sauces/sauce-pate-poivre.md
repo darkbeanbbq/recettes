@@ -1,3 +1,3 @@
 ---
-titre: sauce simple pâte au poivre
+title: sauce simple pâte au poivre
 ---

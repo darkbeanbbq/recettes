@@ -1,5 +1,5 @@
 ---
-titre: pâte à pizza
+title: pâte à pizza
 ---
 
 pour 500g de farine

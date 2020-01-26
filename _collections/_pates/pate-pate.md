@@ -1,3 +1,3 @@
 ---
-titre: pâte à pâtes fraiches
+title: pâte à pâtes fraiches
 ---

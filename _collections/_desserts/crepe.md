@@ -1,5 +1,5 @@
 ---
-titre: crepes
+title: crepes
 ---
 
-bien saisie au beurre comme il faut 
+bien saisie au beurre comme il faut

@@ -1,3 +1,3 @@
 ---
-titre: salade au chèvre
+title: salade au chèvre
 ---

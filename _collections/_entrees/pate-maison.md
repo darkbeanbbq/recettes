@@ -1,3 +1,3 @@
 ---
-titre: paté maison
+title: paté maison
 ---
