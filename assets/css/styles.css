@@ -1,0 +1,26 @@
+* {
+	box-sizing: border-box;
+}
+
+body, td, th {
+
+	font-size: 16px;
+	color: #000;
+	max-width: 76em;
+	text-align: left;
+  margin: 3.2em; /* 50px */
+	/* margin: 0 auto; */
+}
+
+a {
+	font-family: 'Faune', monospace;
+	text-decoration: none;
+}
+
+a:hover {
+	font-style: italic;
+}
+
+h2 {
+	font-size: 4em;
+}
