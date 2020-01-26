@@ -1,12 +1,12 @@
 ---
-titre: liste des recettes
+title: liste des recettes
 ---
 
 # Entrées
 <ul>
 {% for entree in site.entrees %}
 	<li>
-		<h2><a href="{{ entree.url }}">{{ entree.titre }}</a></h2>
+		<h2><a href="{{ entree.url }}" class="random-font">{{ entree.title }}</a></h2>
 	</li>
 {% endfor %}
 </ul>
@@ -15,7 +15,7 @@ titre: liste des recettes
 <ul>
 {% for plat in site.plats %}
 	<li>
-		<h2><a href="{{ plat.url }}">{{ plat.titre }}</a></h2>
+		<h2><a href="{{ plat.url }}" class="random-font">{{ plat.title }}</a></h2>
 	</li>
 {% endfor %}
 </ul>
@@ -24,7 +24,7 @@ titre: liste des recettes
 <ul>
 {% for dessert in site.desserts %}
 	<li>
-		<h2><a href="{{ dessert.url }}">{{ dessert.titre }}</a></h2>
+		<h2><a href="{{ dessert.url }}" class="random-font">{{ dessert.title }}</a></h2>
 	</li>
 {% endfor %}
 </ul>
@@ -33,7 +33,7 @@ titre: liste des recettes
 <ul>
 {% for sauce in site.sauces %}
 	<li>
-		<h2><a href="{{ sauce.url }}">{{ sauce.titre }}</a></h2>
+		<h2><a href="{{ sauce.url }}" class="random-font">{{ sauce.title }}</a></h2>
 	</li>
 {% endfor %}
 </ul>
@@ -42,7 +42,7 @@ titre: liste des recettes
 <ul>
 {% for pate in site.pates %}
 	<li>
-		<h2><a href="{{ pate.url }}">{{ pate.titre }}</a></h2>
+		<h2><a href="{{ pate.url }}" class="random-font">{{ pate.title }}</a></h2>
 	</li>
 {% endfor %}
 </ul>
