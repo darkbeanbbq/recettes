@@ -6,8 +6,6 @@ body, td, th {
 
 	font-size: 16px;
 	color: #000;
-	max-width: 76em;
-	text-align: left;
   margin: 3.2em; /* 50px */
 	/* margin: 0 auto; */
 }
@@ -15,12 +13,46 @@ body, td, th {
 a {
 	font-family: 'Faune', monospace;
 	text-decoration: none;
+	color: #488851;
+}
+
+a:visited {
+	color: #488851;
 }
 
 a:hover {
 	font-style: italic;
+	color: #be624a;
 }
 
 h2 {
 	font-size: 4em;
+	margin-bottom: 0;
+	color: #488851;
+}
+
+/* div sous images de _test */
+.div-color {
+	background-color: #488851;
+}
+
+/* blend mode des images de _test */
+.img-blend {
+	mix-blend-mode: hard-light;
+}
+
+.div-color,
+.img-blend {
+	width: 100%;
+	max-width: 1000px; /* 1000px */
+	max-height: 660px; /* 660px */
+}
+
+.page {
+	width: 100%;
+}
+
+.content {
+	max-width: 62.5em;;
+	margin: 0 auto;
 }
