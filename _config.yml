@@ -12,6 +12,8 @@ collections:
     output: true
   sauces:
     output: true
+  test:
+    output: true
 
 # mise en page par défaut par collection
 defaults:
