@@ -7,7 +7,6 @@ body, td, th {
 	font-size: 16px;
 	color: #000;
   margin: 3.2em; /* 50px */
-	/* margin: 0 auto; */
 }
 
 a {
@@ -28,12 +27,11 @@ a:hover {
 h2 {
 	font-size: 4em;
 	margin-bottom: 0;
-	color: #488851;
 }
 
 /* div sous images de _test */
 .div-color {
-	background-color: #488851;
+	background-color: #488851; /* vert original #488851, bleu #455da3 */
 }
 
 /* blend mode des images de _test */
@@ -55,4 +53,37 @@ h2 {
 .content {
 	max-width: 62.5em;;
 	margin: 0 auto;
+}
+
+/* ----- test centrage texte sur image ----- */
+
+/* div text à mettre dans div-color sous lien image */
+
+/* sur div-color */
+.center-container {
+	position: relative;
+  text-align: center;
+}
+
+/* sur div text */
+.centered {
+	position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/* sur h2 */
+.centered-margin-top {
+	color: #fff;
+	margin-top: 0;
+}
+
+/* c'est moche mais c'est pour le test */
+.white {
+	color: #fff;
+}
+
+.white:hover {
+	color: #ccd24a;
 }
