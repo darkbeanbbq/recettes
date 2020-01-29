@@ -1,7 +1,7 @@
 window.onload = function () {
 	var title = document.getElementsByClassName("random-font"); //get all elements of class " "
 	var fontStyle = [ "regular", "italic"];
-	var fontWeight = [400, 600, 900]; //[ "900", "bold", "normal", "100"];
+	var fontWeight = [100, 400, 600, 900]; //[ "900", "bold", "normal", "100"];
 
 	var i;
 	for(i=0; i< title.length; i++) {
