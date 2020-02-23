@@ -15,9 +15,9 @@ a {
 	color: #488851;
 }
 
-a:visited {
+/* a:visited {
 	color: #488851;
-}
+} */
 
 a:hover {
 	font-style: italic;
